@@ -1,2 +1,2 @@
 # freecodecamp
-My repositoy for freecodecamp cources
+My repositoy for freecodecamp sources
